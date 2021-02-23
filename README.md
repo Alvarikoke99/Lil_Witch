@@ -1,6 +1,6 @@
 # Lil'Witch
 
-![alt text](https://github.com/Alvarikoke99/Lil_Witch/blob/main/Programacion/LilWitch/resources/logos/logo_1.png "Logo")
+![alt text](https://github.com/Alvarikoke99/Lil_Witch/blob/main/LilWitch/resources/logos/logo_1.png "Logo")
 
 
 ## ¿Qué es Lil'Witch?
